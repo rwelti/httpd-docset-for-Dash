@@ -1,3 +1,4 @@
+Sorry this is the English documentation only, for Apache httpd V2.2.14
 
 The contents came from
 
